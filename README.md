@@ -1,4 +1,4 @@
-# DATA110 Capstone Project — [Your Name]
+# DATA110 Capstone Project — JAIS SAJI
 
 Golden Gate University | DATA110: Introduction to Python using Machine Learning
 Instructor: Dr. Durga Sharma
